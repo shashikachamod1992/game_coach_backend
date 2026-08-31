@@ -1,4 +1,4 @@
-package com.example.game_coach_backend;
+package com.shashika.game_coach_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
